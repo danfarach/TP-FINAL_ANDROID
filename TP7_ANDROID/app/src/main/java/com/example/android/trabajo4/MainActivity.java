@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        //lolxd2
+        //lolxd2 swsw
 
         lista = new ArrayList<Stock>();
         Stock p1 = new Stock("Coca", 7, 10);
