@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033655251630",
+    "firebase_url": "https://espert-697fa.firebaseio.com",
+    "project_id": "espert-697fa",
+    "storage_bucket": "espert-697fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033655251630:android:84ae4d198a6b2281",
+        "android_client_info": {
+          "package_name": "com.example.android.trabajo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033655251630-bmg04gnh1aliofd3smkmssj9elalgf1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XCybGyfe_jDNXj2ZebOsssI69xo_COk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033655251630-bmg04gnh1aliofd3smkmssj9elalgf1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
