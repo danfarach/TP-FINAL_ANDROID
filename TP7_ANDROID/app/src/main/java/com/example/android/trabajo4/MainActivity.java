@@ -34,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        //lolxd\
+
         lista = new ArrayList<Stock>();
         Stock p1 = new Stock("Coca", 7, 10);
         lista.add(p1);
